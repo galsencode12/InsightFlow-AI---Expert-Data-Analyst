@@ -1,0 +1,5 @@
+{
+  "name": "InsightFlow AI - Expert Data Analyst",
+  "description": "Une plateforme sophistiquée de science des données propulsée par l'IA qui analyse les fichiers PDF, CSV et Excel pour fournir des analyses approfondies, des visualisations automatisées et des prédictions à l'aide de Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
